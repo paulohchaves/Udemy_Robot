@@ -1,0 +1,3 @@
+https://robotframework.org/robotframework/latest/RobotFrameworkUserGuide.html#embedding-arguments-into-keyword-name
+
+https://fakerestapi.azurewebsites.net/index.html
